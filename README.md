@@ -15,7 +15,8 @@ This Python script reads a log file and counts the number of INFO, ERROR, and WA
 
 ```bash
 git clone https://github.com/vamsi-2005-cs/Log-File-Reader.git
-
+```
+```bash
 cd Log-File-Reader
 ```
 ## Usage
