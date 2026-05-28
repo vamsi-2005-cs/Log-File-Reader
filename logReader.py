@@ -16,5 +16,5 @@ print("-" * 20)
 print(f"{"Level":<10} {"Count":<10}")
 print("-" * 20)
 
-for key,value in count.items():
+for key, value in count.items():
     print(f"{key:<10} {value:<10}")
