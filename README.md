@@ -13,10 +13,11 @@ This Python script reads a log file and counts the number of INFO, ERROR, and WA
 
 ## Installation
 
+```bash
 git clone https://github.com/vamsi-2005-cs/Log-File-Reader.git
 
 cd Log-File-Reader
-
+```
 ## Usage
 1. Place `app.log` in the project folder.
 2. Run the script: python log_analyzer.py
